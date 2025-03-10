@@ -95,4 +95,10 @@
   "task": "get user profile information"
 }
 
+{
+  "endpoint": "/users/Naveenkumar-Kanniyappan/repos",
+  "endpointDescription": "list user repositories",
+  "repo": "",
+  "task": "list user repositories"
+}
 
