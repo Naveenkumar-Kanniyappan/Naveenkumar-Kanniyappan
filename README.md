@@ -86,3 +86,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-Kanniyappan&show_icons=true&locale=en" alt="Naveenkumar-Kanniyappan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-Kanniyappan&" alt="Naveenkumar-Kanniyappan" /></p>
+
+
+{
+  "endpoint": "/users/Naveenkumar-Kanniyappan",
+  "endpointDescription": "get user",
+  "repo": "",
+  "task": "get user profile information"
+}
+
+
