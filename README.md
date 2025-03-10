@@ -88,17 +88,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-Kanniyappan&" alt="Naveenkumar-Kanniyappan" /></p>
 
 
-{
-  "endpoint": "/users/Naveenkumar-Kanniyappan",
-  "endpointDescription": "get user",
-  "repo": "",
-  "task": "get user profile information"
-}
-
-{
-  "endpoint": "/users/Naveenkumar-Kanniyappan/repos",
-  "endpointDescription": "list user repositories",
-  "repo": "",
-  "task": "list user repositories"
-}
-
