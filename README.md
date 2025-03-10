@@ -1,27 +1,40 @@
-<h1 align="center">Hi 👋, I'm Naveenkumar Kanniyappan</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h1 align="center" style="color: #00ff00;">Hi 👋, I'm Naveenkumar Kanniyappan</h1>
+<h3 align="center" style="color: #00ff00;">A passionate full-stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naveenkumar-Kanniyappan&label=Profile%20views&color=0e75b6&style=flat" alt="Naveenkumar-Kanniyappan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naveenkumar-Kanniyappan&label=Profile%20views&color=brightgreen&style=flat" alt="Naveenkumar-Kanniyappan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naveenkumar-Kanniyappan" alt="Naveenkumar-Kanniyappan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naveenkumar-Kanniyappan&theme=darkhub&no-frame=true&row=1&column=6" alt="Naveenkumar-Kanniyappan" /></a></p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [C-room](https://github.com/Naveenkumar-Kanniyappan/croom)
+## Table of Contents
+- [Introduction](#introduction)
+- [Currently Working On](#currently-working-on)
+- [Learning](#learning)
+- [Ask Me About](#ask-me-about)
+- [Contact](#contact)
+- [Languages and Tools](#languages-and-tools)
+- [GitHub Stats](#github-stats)
+- [Support My Work](#support-my-work)
 
-- 🌱 I’m currently learning **Python**
-  
-- 💬 Ask me about **React, Laravel**
+## Introduction
+I am a passionate full-stack web developer with expertise in various technologies and frameworks. I enjoy creating web applications and learning new technologies.
 
-- 📫 How to reach me **naveenkumar.kanniyappan@example.com**
+## Currently Working On
+- [C-room](https://github.com/Naveenkumar-Kanniyappan/croom): A collaborative room for developers.
 
-<h3 align="left">Connect with me:</h3>
+## Learning
+- Currently learning **Python** to expand my backend development skills.
+
+## Ask Me About
+- I am happy to help with **React** and **Laravel** related queries.
+
+## Contact
+- 📫 Email: [naveenkumar.kanniyappan@example.com](mailto:naveenkumar.kanniyappan@example.com)
+- 📝 LinkedIn: [Naveenkumar Kanniyappan](https://linkedin.com/in/naveenkumar-kanniyappan)
+- 💼 LeetCode: [Naveenkumar Kanniyappan](https://www.leetcode.com/naveenkumar-kanniyappan)
+
+## Languages and Tools
 <p align="left">
-<a href="https://linkedin.com/in/naveenkumar-kanniyappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naveenkumar Kanniyappan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveenkumar-kanniyappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveenkumar-kanniyappan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="laravel" width="40" height="40"/> 
     </a> 
@@ -81,10 +94,13 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveenkumar-Kanniyappan&show_icons=true&locale=en&layout=compact" alt="Naveenkumar-Kanniyappan" /></p>
+## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveenkumar-Kanniyappan&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="Naveenkumar-Kanniyappan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-Kanniyappan&show_icons=true&locale=en" alt="Naveenkumar-Kanniyappan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-Kanniyappan&show_icons=true&theme=chartreuse-dark&locale=en" alt="Naveenkumar-Kanniyappan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-Kanniyappan&" alt="Naveenkumar-Kanniyappan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-Kanniyappan&theme=chartreuse-dark" alt="Naveenkumar-Kanniyappan" /></p>
 
-
+## Support My Work
+If you like my work and would like to support me, you can buy me a coffee.
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/yourprofile)
