@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #00ff00;">Hi 👋, I'm Naveenkumar Kanniyappans</h1>
+<h1 align="center" style="color: #00ff00;">Hi 👋, I'm Naveenkumar Kanniyappan</h1>
 <h3 align="center" style="color: #00ff00;">Ethical Hacker & Full Stack Web Developer</h3>
 
 <p align="left">
